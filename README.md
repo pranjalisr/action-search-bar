@@ -119,8 +119,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 Deploy to [Vercel](https://vercel.com/) in one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/pranjalisr/action-search-bar)
-
 ---
 
 
